@@ -15,10 +15,10 @@
 		"Nazar Piskunov - Job" => "WEB",
 		
 		"Diane Kolpakova" => "Диана Колпакова",
-		"Diane Kolpakova - Job" => "Andoid разработчик, PHP-логика",
+		"Diane Kolpakova - Job" => "Android разработчик, PHP-логика",
 		
 		"Alex Ballalin" => "Александр Баллалин",
-		"Alex Ballalin - Job" => "Дизайн Android приложения",
+		"Alex Ballalin - Job" => "Дизайн приложений",
 		
 		"FName LName" => "Имя Фамилия",
 		"FName LName - Job" => "Заслуга",
