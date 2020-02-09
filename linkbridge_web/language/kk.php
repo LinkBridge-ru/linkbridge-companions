@@ -15,7 +15,7 @@
 		"Nazar Piskunov - Job" => "WEB",
 		
 		"Diane Kolpakova" => "Diane Kolpakova",
-		"Diane Kolpakova - Job" => "Andoid dev., PHP-backend",
+		"Diane Kolpakova - Job" => "Android dev., PHP-backend",
 		
 		"Alex Ballalin" => "Alex Ballalin",
 		"Alex Ballalin - Job" => "Қолданба дизайнері",
