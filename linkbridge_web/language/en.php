@@ -15,10 +15,10 @@
 		"Nazar Piskunov - Job" => "WEB",
 		
 		"Diane Kolpakova" => "Diane Kolpakova",
-		"Diane Kolpakova - Job" => "Andoid dev., PHP-backend",
+		"Diane Kolpakova - Job" => "Android dev., PHP-backend",
 		
 		"Alex Ballalin" => "Alex Ballalin",
-		"Alex Ballalin - Job" => "Android app designer",
+		"Alex Ballalin - Job" => "App designer",
 		
 		"FName LName" => "FName LName",
 		"FName LName - Job" => "Job",
@@ -250,6 +250,7 @@
 		 * ||||||||||
 		 */
 		"windows.php" => "Thanks.<br>Click on this text for close this window.",
+		"Alert: Technical work" => "Technical work is currently underway.<br>Some elements of the site may not be displayed correctly!<br>Please accept our apologies.",
 		"App in developing" => "App in developing",
 		"Applications" => "Applications",
 		"app" => "app"
