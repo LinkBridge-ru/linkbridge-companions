@@ -18,7 +18,7 @@
 		"Diane Kolpakova - Job" => "Andoid dev., PHP-backend",
 		
 		"Alex Ballalin" => "Alex Ballalin",
-		"Alex Ballalin - Job" => "Android қосымшасының дизайнері",
+		"Alex Ballalin - Job" => "Қолданба дизайнері",
 		
 		"FName LName" => "FName LName",
 		"FName LName - Job" => "Job",
@@ -250,6 +250,7 @@
 		 * ||||||||||
 		 */
 		"windows.php" => "Thanks.<br>Click on this text for close this window.",
+		"Alert: Technical work" => "Қазіргі уақытта техникалық жұмыстар жүргізілуде.<br>Сайттың кейбір элементтері дұрыс көрсетілуі мүмкін!<br>Қабыл алыңыз біздің кешірім.",
 		"App in developing" => "App in developing",
 		"Applications" => "Applications",
 		"app" => "app"
