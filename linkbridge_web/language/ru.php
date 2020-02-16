@@ -34,6 +34,7 @@
 		 * --------------
 		 */
 		"Start page" => "Главная",
+        "Send from PC" => "Отправить с ПК",
 		"Contacts page" => "Контакты",
 		"Menu" => "Меню"
 	);
@@ -88,7 +89,7 @@
 		 * Titles
 		 * ======
 		 */
-		"Title main page" => "LinkBridge", //LinkBridge – Отправить ссылку просто
+		"Title main page" => "LinkBridge :: Передай ссылку", // Отправить ссылку просто
 		"Title Download iOS app" => "Приложение для iOS :: LinkBridge",
 		"Title Download Android app" => "Приложение для Android :: LinkBridge",
 		"Title Team" => "Команда LinkBridge",
@@ -256,3 +257,43 @@
 		"Applications" => "Приложение",
 		"app" => "приложение"
 	);
+
+$lng_pcTOpc = array(
+    /*
+     * Title
+     */
+    "Waiting for a link" => "Ждем ссылку",
+    "Enter PIN" => "Введите PIN-Код",
+    "Send the Link" => "Отправить ссылку",
+
+    /*
+     * Get
+     */
+    "Expect a link" => "Ожидаем ссылку",
+    "Your PIN-Code to receive" => "Ваш PIN-Код для получения",
+    "Pass your PIN" => "Передайте свой PIN-код отправителю, чтобы получить ссылку.",
+
+    /*
+     * Pin
+     */
+    "Waiting for authorization" => "Ожидание авторизации",
+    "Enter PIN-Code" => "Введите PIN-Код",
+    "Enter the PIN-Code in this field" => "Введите PIN-Код в этом поле",
+
+    /*
+     * Send
+     */
+    "Preparing for sending" => "Подготовка к отправке",
+    "Send to" => "Отправить на",
+    "Insert a link" => "Вставь ссылку",
+
+    /*
+     * Buttons
+     */
+    "Back" => "Назад",
+    "Copy" => "Копировать",
+    "New" => "Новый",
+    "Get" => "Получить",
+    "Send" => "Отправить",
+    "Continue" => "Продолжить"
+);

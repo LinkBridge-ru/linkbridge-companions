@@ -34,6 +34,7 @@
 		 * --------------
 		 */
 		"Start page" => "Hauptseite",
+        "Send from PC" => "Send from PC",
 		"Contacts page" => "Das Team",
 		"Menu" => "Menu"
 	);
@@ -250,8 +251,49 @@
 		 * ||||||||||
 		 */
 		"windows.php" => "Danke.<br>Klicken Sie auf diesen Text, um dieses Fenster zu schließen.",
-		"Alert: Technical work" => "Derzeit laufen die technischen arbeiten.<br>Einige Elemente der Website können nicht korrekt angezeigt werden!<br>Bitte nehmen Sie unsere Entschuldigung an.",
-		"App in developing" => "App in der Entwicklung",
+        "Alert: Technical work" => "Derzeit laufen die technischen arbeiten.<br>Einige Elemente der Website können nicht korrekt angezeigt werden!<br>Bitte nehmen Sie unsere Entschuldigung an.",
+		"App in developing" => "Anwendung in der Entwicklung",
 		"Applications" => "Anwendung",
 		"app" => "app"
 	);
+
+
+$lng_pcTOpc = array(
+    /*
+     * Title
+     */
+    "Waiting for a link" => "Warten auf den Link",
+    "Enter PIN" => "PIN eingeben",
+    "Send the Link" => "Senden Sie den Link",
+
+    /*
+     * Get
+     */
+    "Expect a link" => "Erwarten Sie einen link",
+    "Your PIN-Code to receive" => "Ihren PIN-Code zu erhalten",
+    "Pass your PIN" => "Geben Sie Ihren PIN-Code an den Absender, um den link zu erhalten.",
+
+    /*
+     * Pin
+     */
+    "Waiting for authorization" => "Warten auf Genehmigung",
+    "Enter PIN-Code" => "PIN-Code eingeben",
+    "Enter the PIN-Code in this field" => "Geben Sie in diesem Feld den PIN-Code ein",
+
+    /*
+     * Send
+     */
+    "Preparing for sending" => "Vorbereitung für das senden",
+    "Send to" => "Senden an",
+    "Insert a link" => "Einen link einfügen",
+
+    /*
+     * Buttons
+     */
+    "Back" => "Zurück",
+    "Copy" => "Kopieren",
+    "New" => "Neu",
+    "Get" => "Bekommen",
+    "Send" => "Senden",
+    "Continue" => "Weiterhin"
+);

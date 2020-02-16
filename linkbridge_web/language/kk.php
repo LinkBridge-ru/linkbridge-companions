@@ -34,6 +34,7 @@
 		 * --------------
 		 */
 		"Start page" => "Басты бет",
+        "Send from PC" => "Send from PC",
 		"Contacts page" => "Байланыстар",
 		"Menu" => "Menu"
 	);
@@ -250,8 +251,48 @@
 		 * ||||||||||
 		 */
 		"windows.php" => "Thanks.<br>Click on this text for close this window.",
-		"Alert: Technical work" => "Қазіргі уақытта техникалық жұмыстар жүргізілуде.<br>Сайттың кейбір элементтері дұрыс көрсетілуі мүмкін!<br>Қабыл алыңыз біздің кешірім.",
-		"App in developing" => "App in developing",
-		"Applications" => "Applications",
+        "Alert: Technical work" => "Қазіргі уақытта техникалық жұмыстар жүргізілуде.<br>Сайттың кейбір элементтері дұрыс көрсетілуі мүмкін!<br>Қабыл алыңыз біздің кешірім.",
+		"App in developing" => "Әзірлеудегі қосымшалар",
+		"Applications" => "Қосымшалар",
 		"app" => "app"
 	);
+
+$lng_pcTOpc = array(
+    /*
+     * Title
+     */
+    "Waiting for a link" => "Сілтемені күтеміз",
+    "Enter PIN" => "PIN кодын енгізіңіз",
+    "Send the Link" => "Сілтемені жіберу",
+
+    /*
+     * Get
+     */
+    "Expect a link" => "Сілтемені күтіңіз",
+    "Your PIN-Code to receive" => "Алу үшін сіздің PIN-Коды",
+    "Pass your PIN" => "Сілтемені алу үшін жіберушіге PIN-кодын беріңіз.",
+
+    /*
+     * Pin
+     */
+    "Waiting for authorization" => "Авторизацияны күту",
+    "Enter PIN-Code" => "PIN-Кодын енгізіңіз",
+    "Enter the PIN-Code in this field" => "Бұл өріске PIN-Кодын енгізіңіз",
+
+    /*
+     * Send
+     */
+    "Preparing for sending" => "Жөнелтуге дайындық",
+    "Send to" => "Жіберу",
+    "Insert a link" => "Сілтемені ендіру",
+
+    /*
+     * Buttons
+     */
+    "Back" => "Артқа",
+    "Copy" => "Көшіруге",
+    "New" => "Жаңа",
+    "Get" => "Возьми",
+    "Send" => "Жіберу",
+    "Continue" => "Жалғастыру"
+);

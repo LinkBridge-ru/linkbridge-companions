@@ -34,6 +34,7 @@
 		 * --------------
 		 */
 		"Start page" => "Main page",
+		"Send from PC" => "Send from PC",
 		"Contacts page" => "Contacts",
 		"Menu" => "Menu"
 	);
@@ -250,8 +251,48 @@
 		 * ||||||||||
 		 */
 		"windows.php" => "Thanks.<br>Click on this text for close this window.",
-		"Alert: Technical work" => "Technical work is currently underway.<br>Some elements of the site may not be displayed correctly!<br>Please accept our apologies.",
-		"App in developing" => "App in developing",
+        "Alert: Technical work" => "Technical work is currently underway.<br>Some elements of the site may not be displayed correctly!<br>Please accept our apologies.",
+		"App in developing" => "Applications in developing",
 		"Applications" => "Applications",
 		"app" => "app"
 	);
+
+$lng_pcTOpc = array(
+    /*
+     * Title
+     */
+    "Waiting for a link" => "Waiting for a link",
+    "Enter PIN" => "Enter PIN",
+    "Send the Link" => "Send the Link",
+
+    /*
+     * Get
+     */
+    "Expect a link" => "Expect a link",
+    "Your PIN-Code to receive" => "Your PIN-Code to receive",
+    "Pass your PIN" => "Pass your PIN To the sender to get the link.",
+
+    /*
+     * Pin
+     */
+    "Waiting for authorization" => "Waiting for authorization",
+    "Enter PIN-Code" => "Enter PIN-Code",
+    "Enter the PIN-Code in this field" => "Enter the PIN-Code in this field",
+
+    /*
+     * Send
+     */
+    "Preparing for sending" => "Preparing for sending",
+    "Send to" => "Send to",
+    "Insert a link" => "Insert a link",
+
+    /*
+     * Buttons
+     */
+    "Back" => "Back",
+    "Copy" => "Copy",
+    "New" => "New",
+    "Get" => "Get",
+    "Send" => "Send",
+    "Continue" => "Continue"
+);
