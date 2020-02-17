@@ -202,37 +202,20 @@
 		"Help in the development" => "Help in the development",
 		"Help in the development intro" => "LinkBridge - is a free link transfer project that needs your help developing the project.",
 		"If you have a idea" => "If you have a specific idea and its implementation, write to us in Telegram:&nbsp;",
-		
-		/*
-		 * <<<<<<<<<<<<<
-		 * Team page END
-		 * <<<<<<<<<<<<<
-		 */
+        "Or visit our repository on" => "Or visit our repository on",
+
+        /*
+         * <<<<<<<<<<<<<
+         * Team page END
+         * <<<<<<<<<<<<<
+         */
 		
 		/*
 		 * >>>>>>>>>>>
 		 * Errors page
 		 * >>>>>>>>>>>
 		 */
-		
-		/*
-		 * --------
-		 * 403 page
-		 * --------
-		 */
-		"403 Title" => "403 – LinkBridge",
-		"403 Subtitle" => "In a far distant galaxy, there lived a folder and a file that you unfortunately do not have access to. And they live happy.",
-		
-		/*
-		 * --------
-		 * 404 page
-		 * --------
-		 */
-		"404 Title" => "404 – LinkBridge",
-		"404 Subtitle" => "Link, path or file escaped leaving this page with «Page Not Found» error.",
-		"404 button" => "Click here&nbsp;",
-		"404 button_c" => "to return to the main page.",
-		
+
 		/*
 		 * <<<<<<<<<<<<<<<<<<<
 		 * Errors page END
@@ -252,6 +235,7 @@
 		 */
 		"windows.php" => "Thanks.<br>Click on this text for close this window.",
         "Alert: Technical work" => "Technical work is currently underway.<br>Some elements of the site may not be displayed correctly!<br>Please accept our apologies.",
+        "Alert: Global technical work" => "Global technical work is currently underway.<br> The site or its features may no work!<br>We do everything to make it convenient for you to use.<br> Please accept our apologies.",
 		"App in developing" => "Applications in developing",
 		"Applications" => "Applications",
 		"app" => "app"

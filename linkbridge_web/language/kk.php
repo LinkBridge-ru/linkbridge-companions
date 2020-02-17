@@ -202,37 +202,20 @@
 		"Help in the development" => "Дамуға көмек",
 		"Help in the development intro" => "LinkBridge - бұл ақысыз сілтеме беру жобасы, оны жасауда сіздің көмегіңіз қажет.",
 		"If you have a idea" => "Егер сізде нақты идея және оны жүзеге асыру болса, бізге Telegram-да жазыңыз:&nbsp;",
-		
-		/*
-		 * <<<<<<<<<<<<<
-		 * Team page END
-		 * <<<<<<<<<<<<<
-		 */
+        "Or visit our repository on" => "Or visit our repository on",
+
+        /*
+         * <<<<<<<<<<<<<
+         * Team page END
+         * <<<<<<<<<<<<<
+         */
 		
 		/*
 		 * >>>>>>>>>>>
 		 * Errors page
 		 * >>>>>>>>>>>
 		 */
-		
-		/*
-		 * --------
-		 * 403 page
-		 * --------
-		 */
-		"403 Title" => "403 – LinkBridge",
-		"403 Subtitle" => "In a far distant galaxy, there lived a folder and a file that you unfortunately do not have access to. And they live happy.",
-		
-		/*
-		 * --------
-		 * 404 page
-		 * --------
-		 */
-		"404 Title" => "404 – LinkBridge",
-		"404 Subtitle" => "Link, path or file escaped leaving this page with «Page Not Found» error.",
-		"404 button" => "басты бетке&nbsp;",
-		"404 button_c" => "оралыңыз...",
-		
+
 		/*
 		 * <<<<<<<<<<<<<<<<<<<
 		 * Errors page END
@@ -252,6 +235,7 @@
 		 */
 		"windows.php" => "Thanks.<br>Click on this text for close this window.",
         "Alert: Technical work" => "Қазіргі уақытта техникалық жұмыстар жүргізілуде.<br>Сайттың кейбір элементтері дұрыс көрсетілуі мүмкін!<br>Қабыл алыңыз біздің кешірім.",
+        "Alert: Global technical work" => "Global technical work is currently underway.<br> The site or its features may no work!<br>We do everything to make it convenient for you to use.<br> Please accept our apologies.",
 		"App in developing" => "Әзірлеудегі қосымшалар",
 		"Applications" => "Қосымшалар",
 		"app" => "app"
