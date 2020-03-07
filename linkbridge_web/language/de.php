@@ -34,7 +34,6 @@
 		 * --------------
 		 */
 		"Start page" => "Hauptseite",
-        "Send from PC" => "Send from PC",
 		"Contacts page" => "Das Team",
 		"Menu" => "Menu"
 	);
@@ -89,7 +88,7 @@
 		 * Titles
 		 * ======
 		 */
-		"Title main page" => "LinkBridge", //LinkBridge – Links einfach teilen
+		"Title main page" => "LinkBridge – Links einfach teilen",
 		"Title Download iOS app" => "Laden Sie die iOS-App herunter :: LinkBridge",
 		"Title Download Android app" => "Laden Sie die Android App herunter :: LinkBridge",
 		"Title Team" => "Team  :: LinkBridge",
@@ -143,8 +142,8 @@
 		"Work through the browser" => "Arbeiten Sie über den Browser",
 		"Work through the browser description" => "Um einen Link auf dieses Gerät zu erhalten, benötigen Sie nur einen Browser.",
 		
-		"No authorization" => "Keine Berechtigung",
-		"No authorization description" => "Öffnen Sie einfach die Website. Sie müssen nichts eingeben.",
+		"No registration" => "Keine Anmeldung",
+		"No registration description" => "Öffnen Sie einfach die Website. Sie müssen nichts eingeben.",
 		
 		/*
 		 * -------
@@ -247,7 +246,6 @@ $lng_pcTOpc = array(
      * Title
      */
     "Waiting for a link" => "Warten auf den Link",
-    "Enter PIN" => "PIN eingeben",
     "Send the Link" => "Senden Sie den Link",
 
     /*
@@ -260,8 +258,8 @@ $lng_pcTOpc = array(
     /*
      * Pin
      */
-    "Waiting for authorization" => "Warten auf Genehmigung",
-    "Enter PIN-Code" => "PIN-Code eingeben",
+    "Expect a PIN-Code" => "Erwarten Sie einen PIN-Code",
+    "Enter PIN" => "Geben Sie die PIN vom Empfänger ein",
     "Enter the PIN-Code in this field" => "Geben Sie in diesem Feld den PIN-Code ein",
 
     /*

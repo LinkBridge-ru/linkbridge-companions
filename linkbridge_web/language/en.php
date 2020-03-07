@@ -34,7 +34,6 @@
 		 * --------------
 		 */
 		"Start page" => "Main page",
-		"Send from PC" => "Send from PC",
 		"Contacts page" => "Contacts",
 		"Menu" => "Menu"
 	);
@@ -89,12 +88,12 @@
 		 * Titles
 		 * ======
 		 */
-		"Title main page" => "LinkBridge", //LinkBridge – Share links easy
-		"Title Download iOS app" => "Download iOS app :: LinkBridge",
-		"Title Download Android app" => "Download Android app :: LinkBridge",
-		"Title Team" => "Team  :: LinkBridge",
-		"Title Privacy Policy" => "Privacy Policy :: LinkBridge",
-		"Title Terms Of Use" => "Terms Of Use :: LinkBridge",
+		"Title main page" => "LinkBridge: Share links easy",
+		"Title Download iOS app" => "Download iOS app: LinkBridge",
+		"Title Download Android app" => "Download Android app: LinkBridge",
+		"Title Team" => "Contacts",
+		"Title Privacy Policy" => "Privacy Policy: LinkBridge",
+		"Title Terms Of Use" => "Terms Of Use: LinkBridge",
 		
 		/*
 		 * >>>>>>>>>>>>>>>
@@ -143,8 +142,8 @@
 		"Work through the browser" => "Work through the browser",
 		"Work through the browser description" => "To get a link on this device, you only need a browser.",
 		
-		"No authorization" => "No authorization",
-		"No authorization description" => "Just open the website. You do not need to enter anything.",
+		"No registration" => "No registration",
+		"No registration description" => "Just open the website. You do not need to enter anything.",
 		
 		/*
 		 * -------
@@ -246,7 +245,6 @@ $lng_pcTOpc = array(
      * Title
      */
     "Waiting for a link" => "Waiting for a link",
-    "Enter PIN" => "Enter PIN",
     "Send the Link" => "Send the Link",
 
     /*
@@ -259,8 +257,8 @@ $lng_pcTOpc = array(
     /*
      * Pin
      */
-    "Waiting for authorization" => "Waiting for authorization",
-    "Enter PIN-Code" => "Enter PIN-Code",
+    "Expect a PIN-Code" => "Expect a PIN-Code",
+    "Enter PIN" => "Enter the PIN from the recipient",
     "Enter the PIN-Code in this field" => "Enter the PIN-Code in this field",
 
     /*

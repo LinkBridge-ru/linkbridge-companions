@@ -34,7 +34,6 @@
 		 * --------------
 		 */
 		"Start page" => "Главная",
-        "Send from PC" => "Отправить с ПК",
 		"Contacts page" => "Контакты",
 		"Menu" => "Меню"
 	);
@@ -89,12 +88,12 @@
 		 * Titles
 		 * ======
 		 */
-		"Title main page" => "LinkBridge :: Передай ссылку", // Отправить ссылку просто
-		"Title Download iOS app" => "Приложение для iOS :: LinkBridge",
-		"Title Download Android app" => "Приложение для Android :: LinkBridge",
-		"Title Team" => "Команда LinkBridge",
-		"Title Privacy Policy" => "Политика Конфиденциальности :: LinkBridge",
-		"Title Terms Of Use" => "Условия использования :: LinkBridge",
+		"Title main page" => "LinkBridge: Передай ссылку",
+		"Title Download iOS app" => "Приложение для iOS: LinkBridge",
+		"Title Download Android app" => "Приложение для Android: LinkBridge",
+		"Title Team" => "Контакты",
+		"Title Privacy Policy" => "Политика Конфиденциальности: LinkBridge",
+		"Title Terms Of Use" => "Условия использования: LinkBridge",
 		
 		/*
 		 * >>>>>>>>>>>>>>>
@@ -144,8 +143,8 @@
 		"Work through the browser" => "Работа через браузер",
 		"Work through the browser description" => "Для получения ссылки на этом устройстве нужен только браузер.",
 		
-		"No authorization" => "Никакой авторизации",
-		"No authorization description" => "Просто откройте сайт. Вводить ничего не нужно.",
+		"No registration" => "Никакой регистрации",
+		"No registration description" => "Просто откройте сайт. Вводить ничего не нужно.",
 		
 		/*
 		 * -------
@@ -247,7 +246,6 @@ $lng_pcTOpc = array(
      * Title
      */
     "Waiting for a link" => "Ждем ссылку",
-    "Enter PIN" => "Введите PIN-Код",
     "Send the Link" => "Отправить ссылку",
 
     /*
@@ -260,8 +258,8 @@ $lng_pcTOpc = array(
     /*
      * Pin
      */
-    "Waiting for authorization" => "Ожидание авторизации",
-    "Enter PIN-Code" => "Введите PIN-Код",
+    "Expect a PIN-Code" => "Ожидаем PIN-Код",
+    "Enter PIN" => "Введите PIN получателя",
     "Enter the PIN-Code in this field" => "Введите PIN-Код в этом поле",
 
     /*

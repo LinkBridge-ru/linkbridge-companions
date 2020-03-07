@@ -34,7 +34,6 @@
 		 * --------------
 		 */
 		"Start page" => "Басты бет",
-        "Send from PC" => "Send from PC",
 		"Contacts page" => "Байланыстар",
 		"Menu" => "Menu"
 	);
@@ -89,12 +88,12 @@
 		 * Titles
 		 * ======
 		 */
-		"Title main page" => "LinkBridge", //LinkBridge – Share links easy
-		"Title Download iOS app" => "IOS қосымшасын жүктеп алыңыз :: LinkBridge",
-		"Title Download Android app" => "Android қолданбасын жүктеп алыңыз :: LinkBridge",
-		"Title Team" => "Байланыстар  :: LinkBridge",
-		"Title Privacy Policy" => "Privacy Policy :: LinkBridge",
-		"Title Terms Of Use" => "Terms Of Use :: LinkBridge",
+		"Title main page" => "LinkBridge: Сілтемелерді бөлісу оңай",
+		"Title Download iOS app" => "IOS қосымшасын жүктеп алыңыз: LinkBridge",
+		"Title Download Android app" => "Android қолданбасын жүктеп алыңыз: LinkBridge",
+		"Title Team" => "Байланыстар: LinkBridge",
+		"Title Privacy Policy" => "Privacy Policy: LinkBridge",
+		"Title Terms Of Use" => "Terms Of Use: LinkBridge",
 		
 		/*
 		 * >>>>>>>>>>>>>>>
@@ -143,8 +142,8 @@
 		"Work through the browser" => "Браузер арқылы жұмыс жасаңыз",
 		"Work through the browser description" => "To get a link on this device, you only need a browser.",
 		
-		"No authorization" => "Авторизация жоқ",
-		"No authorization description" => "Just open the website. You do not need to enter anything.",
+		"No registration" => "Ешқандай тіркеу",
+		"No registration description" => "Just open the website. You do not need to enter anything.",
 		
 		/*
 		 * -------
@@ -246,7 +245,6 @@ $lng_pcTOpc = array(
      * Title
      */
     "Waiting for a link" => "Сілтемені күтеміз",
-    "Enter PIN" => "PIN кодын енгізіңіз",
     "Send the Link" => "Сілтемені жіберу",
 
     /*
@@ -259,8 +257,8 @@ $lng_pcTOpc = array(
     /*
      * Pin
      */
-    "Waiting for authorization" => "Авторизацияны күту",
-    "Enter PIN-Code" => "PIN-Кодын енгізіңіз",
+    "Expect a PIN-Code" => "PIN-Кодты күтіңіз",
+    "Enter PIN" => "Алушының PIN кодын енгізіңіз",
     "Enter the PIN-Code in this field" => "Бұл өріске PIN-Кодын енгізіңіз",
 
     /*
