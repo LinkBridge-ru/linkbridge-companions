@@ -169,7 +169,7 @@
 		 * ===============
 		 */
 		"LinkBridge for iOS" => "LinkBridge для iOS",
-		"Download LinkBridge from App Store" => "Скачать с App Store",
+		"Download LinkBridge from App Store" => "Загрузить в App Store",
 		
 		/*
 		 * ===================
@@ -273,9 +273,9 @@ $lng_pcTOpc = array(
      * Buttons
      */
     "Back" => "Назад",
-    "Copy" => "Копировать",
+    "Copy" => "Копир.",
     "New" => "Новый",
     "Get" => "Получить",
     "Send" => "Отправить",
-    "Continue" => "Продолжить"
+    "Continue" => "Далее"
 );
