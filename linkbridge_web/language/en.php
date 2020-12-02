@@ -1,280 +1,134 @@
 <?php
-	/*
-	 * English (Английский) - language
-	 */
-	$lng_team = array(
-		/*
-		 * ---------
-		 * Gratitude
-		 * ---------
-		 */
-		"Ivan Lobanov" => "Ivan Lobanov",
-		"Ivan Lobanov - Job" => "CEO & iOS-dev.",
-		
-		"Nazar Piskunov" => "Nazar Piskunov",
-		"Nazar Piskunov - Job" => "WEB",
-		
-		"Diane Kolpakova" => "Diane Kolpakova",
-		"Diane Kolpakova - Job" => "Android dev., PHP-backend",
-		
-		"Alex Ballalin" => "Alex Ballalin",
-		"Alex Ballalin - Job" => "App designer",
-		
-		"FName LName" => "FName LName",
-		"FName LName - Job" => "Job",
-		
-		"FName1 LName2" => "FName1 LName2",
-		"FName1 LName2 - Job" => "Job"
-	);
-	
-	$lng_menu = array(
-		/*
-		 * --------------
-		 * Menu Translate
-		 * --------------
-		 */
-		"Start page" => "Main page",
-		"Contacts page" => "Contacts",
-		"Menu" => "Menu"
-	);
-	
-	$lng_footer = array(
-		/*
-		 * ----------------------------
-		 * Footer Translate Container 1
-		 * ----------------------------
-		 */
-		"Title 1" => "LinkBridge",
-		"Contacts link name" => "Contacts",
-		
-		/*
-		 * ----------------------------
-		 * Footer Translate Container 2
-		 * ----------------------------
-		 */
-		"Title 2" => "Get the app",
-		"iOS link name" => "iOS",
-		"Android link name" => "Android",
-		
-		/*
-		 * ----------------------------
-		 * Footer Translate Container 3
-		 * ----------------------------
-		 */
-		"Title 3" => "For Users",
-		"Privacy Policy link name" => "Privacy policy",
-		
-		/*
-		 * ----------------------------
-		 * Footer Translate Container 4
-		 * ----------------------------
-		 */
-		"Title 4" => "Follow Us",
-		"VK link name" => "VK",
-		"Telegram link name" => "Telegram"
-	);
-	
-	$lng = array(
-		/*
-		 * =======
-		 * Project
-		 * =======
-		 */
-		"Project" => "LinkBridge",
-		"Project descriptions" => "LinkBridge helps you quickly transfer links from your phone to any device with Internet access using a QR Code.",
-		
-		/*
-		 * ======
-		 * Titles
-		 * ======
-		 */
-		"Title main page" => "LinkBridge: Share links easy",
-		"Title Download iOS app" => "Download iOS app: LinkBridge",
-		"Title Download Android app" => "Download Android app: LinkBridge",
-		"Title Team" => "Contacts",
-		"Title Privacy Policy" => "Privacy Policy: LinkBridge",
-		"Title Terms Of Use" => "Terms Of Use: LinkBridge",
-		
-		/*
-		 * >>>>>>>>>>>>>>>
-		 * Pages Translate
-		 * >>>>>>>>>>>>>>>
-		 */
-		
-		/*
-		 * =========
-		 * Main page
-		 * =========
-		 */
-		"POP-up disabled" => "Your browser does not allow pop-UPS. Works redirect inside the tab.",
-		"Scan this QR" => "Scan this QR-code",
-		"Download app for Android and iOS" => "Download app for Android and iOS",
-		
-		/*
-		 * -------
-		 * Block 1
-		 * -------
-		 */
-		"Its easy to use" => "It's easy to use",
-		
-		"Install app" => "Install app",
-		"Install app description" => "Download the app for Android or iOS",
-		
-		"Scan with app" => "Scan QR",
-		"Scan this QR with app" => "Scan with app",
-		
-		"Input link" => "Insert the link",
-		"Input link description" => "In the application window, insert the link",
-		
-		"Get link" => "Get the link",
-		"Get link description" => "Link already now on your device",
-		
-		/*
-		 * -------
-		 * Block 2
-		 * -------
-		 */
-		"Why us?" => "Why us?",
-		
-		"Privacy" => "Privacy",
-		"Privacy description" => "Do not store sent links.",
-		
-		"Work through the browser" => "Work through the browser",
-		"Work through the browser description" => "To get a link on this device, you only need a browser.",
-		
-		"No registration" => "No registration",
-		"No registration description" => "Just open the website. You do not need to enter anything.",
-		
-		/*
-		 * -------
-		 * Block 3
-		 * -------
-		 */
-		"Still have questions?" => "Still have questions?",
-		"If you have any questions" => "If you have any questions, please feel free to contact us. We will be glad to answer you!",
-		
-		"Telegram" => "Telegram",
-		"Email" => "Email",
-		"VK" => "VK",
-		/*
-		 * <<<<<<<<<<<<<
-		 * Main page END
-		 * <<<<<<<<<<<<<
-		 */
-		
-		/*
-		 * ===============
-		 * iOS Application
-		 * ===============
-		 */
-		"LinkBridge for iOS" => "LinkBridge for iOS",
-		"Download LinkBridge from App Store" => "Download LinkBridge from App Store",
-		
-		/*
-		 * ===================
-		 * Android Application
-		 * ===================
-		 */
-		"LinkBridge for Android" => "LinkBridge for Android",
-		"Download LinkBridge from our servers" => "Download LinkBridge from our servers",
-		
-		/*
-		 * >>>>>>>>>
-		 * Team page
-		 * >>>>>>>>>
-		 */
-		"LinkBridge Team" => "LinkBridge Team",
-		
-		/*
-		 * <----->
-		 * Block 2
-		 * <----->
-		 */
-		"Gratitudes Title" => "Gratitudes",
-		"Gratitudes descriptions" => "Thank you to everyone who has worked and is working on LinkBridge",
-		
-		/*
-		 * <----->
-		 * Block 3
-		 * <----->
-		 */
-		"Help in the development" => "Help in the development",
-		"Help in the development intro" => "LinkBridge - is a free link transfer project that needs your help developing the project.",
-		"If you have a idea" => "If you have a specific idea and its implementation, write to us in Telegram:&nbsp;",
-        "Or visit our repository on" => "Or visit our repository on",
-
-        /*
-         * <<<<<<<<<<<<<
-         * Team page END
-         * <<<<<<<<<<<<<
-         */
-		
-		/*
-		 * >>>>>>>>>>>
-		 * Errors page
-		 * >>>>>>>>>>>
-		 */
-
-		/*
-		 * <<<<<<<<<<<<<<<<<<<
-		 * Errors page END
-		 * <<<<<<<<<<<<<<<<<<<
-		 */
-		
-		/*
-		 * <<<<<<<<<<<<<<<<<<<
-		 * Pages Translate END
-		 * <<<<<<<<<<<<<<<<<<<
-		 */
-		
-		/*
-		 * ||||||||||
-		 * Other text
-		 * ||||||||||
-		 */
-		"windows.php" => "Thanks.<br>Click on this text for close this window.",
-        "Alert: Technical work" => "Technical work is currently underway.<br>Some elements of the site may not be displayed correctly!<br>Please accept our apologies.",
-        "Alert: Global technical work" => "Global technical work is currently underway.<br> The site or its features may no work!<br>We do everything to make it convenient for you to use.<br> Please accept our apologies.",
-		"App in developing" => "Applications in developing",
-		"Applications" => "Applications",
-		"app" => "app"
-	);
-
-$lng_pcTOpc = array(
+/*
+ * Английский (English) - language
+ */
+$language = array(
     /*
-     * Title
+     * ------
+     * navbar
+     * ------
      */
-    "Waiting for a link" => "Waiting for a link",
-    "Send the Link" => "Send the Link",
+    "Main page" => "Main page",
+    "Download" => "Download",
+    "Contacts" => "Contacts",
+    "QRium" => "QRium",
 
     /*
-     * Get
+     * ------
+     * footer
+     * ------
      */
-    "Expect a link" => "Expect a link",
-    "Your PIN-Code to receive" => "Your PIN-Code to receive",
-    "Pass your PIN" => "Pass your PIN To the sender to get the link.",
+    // Bloc 1
+    "LinkBridge" => "LinkBridge",
+    "Download LinkBridge app" => "Download LinkBridge app",
+    "For Android" => "For Android",
+    "For iOS" => "For iOS",
+
+    // Bloc 2
+    "For visitors" => "For visitors",
+    "Contact us" => "Contact us",
+    "Privacy Police" => "Privacy Police",
+
+    // Bloc 3
+    "Our projects" => "Our projects",
+    "QRium app" => "QRium app",
+    "itms-services" => "itms-services",
 
     /*
-     * Pin
+     * -------------
+     * LinkBridge.ru
+     * -------------
      */
-    "Expect a PIN-Code" => "Expect a PIN-Code",
-    "Enter PIN" => "Enter the PIN from the recipient",
-    "Enter the PIN-Code in this field" => "Enter the PIN-Code in this field",
+    "Welcome" => "Welcome",
+    "Download the app to your device" => "Download the app to your device",
+    "Your PIN Code for getting the link" => "Your PIN Code for getting the link",
+    "Click here to send the link" => "Click here to send the link",
+    "Its easy to use" => "It's easy to use",
+
+    // Bloc 1
+    "How it works?" => "How it works?",
+
+    "Scan" => "Scan",
+    "Scan QR-Code with app" => "Scan QR-Code with app",
+
+    "Insert the link" => "Insert the link",
+    "In the application, insert the link" => "In the application, insert the link",
+
+    "Done" => "Done",
+    "The link already now on the recipients device" => "The link already now on the recipients device",
+
+    // Bloc 2
+    "Why us?" => "Why us?",
+
+    "Privacy" => "Privacy",
+    "We dont store sent links" => "We dont store sent links",
+
+    "Browser only" => "Browser only",
+    "The recipient only needs a browser with this site" => "The recipient only needs a browser with this site",
+
+    "Without sign in" => "Without sign in",
+    "Just open this website. You dont need to auth anywhere." => "Just open this website. You dont need to auth anywhere.",
+
+    "Still have questions?" => "Still have questions?",
+    "If you have any questions, please feel free to contact us. We will be glad to answer you!" => "If you have any questions, please feel free to contact us. We will be glad to answer you!",
 
     /*
-     * Send
+     * -----------------
+     * LinkBridge.ru/app
+     * -----------------
      */
-    "Preparing for sending" => "Preparing for sending",
-    "Send to" => "Send to",
-    "Insert a link" => "Insert a link",
+    "Download the LinkBridge app in a convenient way" => "Download the LinkBridge app in a convenient way",
 
     /*
-     * Buttons
+     * ----------------------
+     * LinkBridge.ru/contacts
+     * ----------------------
      */
-    "Back" => "Back",
-    "Copy" => "Copy",
-    "New" => "New",
-    "Get" => "Get",
+    "Ivan Lobanov" => "Ivan Lobanov",
+    "Nazar Piskunov" => "Nazar Piskunov",
+    "Thank you for everything to all those who worked on LinkBridge!" => "Thank you for everything to all those who worked on LinkBridge!",
+
+    /*
+     * ------------------
+     * LinkBridge.ru/send
+     * ------------------
+     */
+    "Enter the recipients PIN" => "Enter the recipients PIN",
+    "Everything is ready to be sent" => "Everything is ready to be sent",
+    //"Insert the link" => "Insert the link",
+    "Recipient" => "Recipient",
+
+    /*
+     * -------------------
+     * LinkBridge.ru/qrium
+     * -------------------
+     */
+    "Create a QR-Code in one click" => "Create a QR-Code in one click",
+    "Support" => "Support",
+
+    /*
+     * ---------------------------
+     * LinkBridge.ru/qrium/support
+     * ---------------------------
+     */
+    "QRium Support" => "QRium Support",
+    "Contact us for support" => "Contact us for support",
+
+    /*
+     * ------
+     * #modal
+     * ------
+     */
+    "Waiting for the PIN-Code" => "Waiting for the PIN",
+    "Enter the recipients PIN-Code" => "Enter the recipients PIN-Code",
+
+    /*
+     * --------------
+     * #modal buttons
+     * --------------
+     */
+    "Continue" => "Continue",
+    "Cancel" => "Cancel",
     "Send" => "Send",
-    "Continue" => "Continue"
+    "Back to QRium" => "Back to QRium"
 );
