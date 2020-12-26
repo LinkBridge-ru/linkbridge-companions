@@ -20,9 +20,6 @@ $language = array(
      */
     // Bloc 1
     "LinkBridge" => "LinkBridge",
-    "Download LinkBridge app" => "Скачать приложение",
-    "For Android" => "Для Android",
-    "For iOS" => "Для iOS",
 
     // Bloc 2
     "For visitors" => "Для посетителей",
@@ -32,7 +29,6 @@ $language = array(
     // Bloc 3
     "Our projects" => "Наши проекты",
     "QRium app" => "Приложение QRium",
-    "itms-services" => "itms-services",
 
     /*
      * -------------
@@ -40,16 +36,18 @@ $language = array(
      * -------------
      */
     "Welcome" => "Добро пожаловать",
-    "Download the app to your device" => "Загрузите приложения на ваше устройство",
-    "Your PIN Code for getting the link" => "Ваш PIN-Код для получения ссылки",
-    "Click here to send the link" => "Нажми здесь, чтобы отправить ссылку",
+    "Tell the sender this code." => "Сообщите отправителю этот код.",
+    "This code is required to get the link." => "Этот код необходим для получения ссылки.",
+    "Click here to send the link." => "Нажми здесь, чтобы отправить ссылку.",
+    "Or download LinkBridge app" => "Или загрузите наше приложение LinkBridge",
+
     "Its easy to use" => "Воспользоваться просто",
 
     // Bloc 1
-    "How it works?" => "Как это работает?",
+    "How to?" => "Как начать?",
 
     "Scan" => "Сканируй",
-    "Scan QR-Code with app" => "Сканируй QR-код приложением",
+    "Scan this QR with app" => "Сканируйте QR приложением",
 
     "Insert the link" => "Вставьте ссылку",
     "In the application, insert the link" => "В приложении вставьте ссылку",
@@ -61,23 +59,16 @@ $language = array(
     "Why us?" => "Почему мы?",
 
     "Privacy" => "Безопасно",
-    "We dont store sent links" => "Мы не храним отправленные ссылки",
+    "We dont collect your links :)" => "Ваши ссылки не храним :)",
 
     "Browser only" => "Только браузер",
-    "The recipient only needs a browser with this site" => "Получателю нужен только браузер с этим сайтом",
+    "The recipient only needs this site" => "Получателю нужен только этот сайт",
 
     "Without sign in" => "Без авторизаций",
-    "Just open this website. You dont need to auth anywhere." => "Просто откройте этот сайт. Вам не нужно нигде входить.",
+    "Just open this website." => "Просто откройте этот сайт.",
 
     "Still have questions?" => "Остались вопросы?",
     "If you have any questions, please feel free to contact us. We will be glad to answer you!" => "Если у вас есть какие-либо вопросы, пожалуйста, свяжитесь с нами. Мы будем рады ответить вам!",
-
-    /*
-     * -----------------
-     * LinkBridge.ru/app
-     * -----------------
-     */
-    "Download the LinkBridge app in a convenient way" => "Загрузите приложение LinkBridge удобным способом",
 
     /*
      * ----------------------
@@ -97,6 +88,10 @@ $language = array(
     "Everything is ready to be sent" => "Все готово к отправке",
     //"Insert the link" => "Вставьте ссылку",
     "Recipient" => "Получатель",
+    "Done. Link sent!" => "Сделано. Ссылка отправлена!",
+    "You will be sent to the main page in few seconds..." => "Вы будете отправлены на главную страницу через несколько секунд...",
+    "Error. Code" => "Ошибка. Код: ",
+    "You will be sent to the send page in few seconds..." => "Вы будете отправлены на страницу отправки через несколько секунд...",
 
     /*
      * -------------------
@@ -119,7 +114,7 @@ $language = array(
      * #modal
      * ------
      */
-    "Waiting for the PIN-Code" => "Ожидаем PIN-Код",
+    "Waiting the PIN" => "Ожидаем PIN",
     "Enter the recipients PIN-Code" => "Введите PIN-Код получателя",
 
     /*
